@@ -49,3 +49,7 @@ pytest test_marcas.py -v
 ## Objetivo
 
 Praticar conceitos de QA e automação de testes de API utilizando Python, desenvolvendo uma suíte capaz de validar diferentes cenários de uma API REST.
+
+## Resultado dos testes
+
+10 testes executados — 10 aprovados.
